@@ -37,8 +37,8 @@ Built end-to-end from concept to release.
 
 ### Background
 - Competitive judo athlete  
-- Strong interest in mental performance, focus, and preparation  
-- Long-term interest in process optimization and sustainable product design
+- Mental performance and preparation under pressure  
+- Process-oriented product thinking
 
 ---
 
@@ -48,5 +48,3 @@ Built end-to-end from concept to release.
 - iOS
 
 ---
-
-*I prefer building fewer things well rather than many things quickly.*
