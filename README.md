@@ -1,4 +1,4 @@
-## Hi, I'm Sebastian 👋
+## Hi, I'm Sebastian
 
 I'm an iOS developer focused on building calm, purposeful tools.
 I care about product thinking, mental clarity, and software that respects real-world constraints.
