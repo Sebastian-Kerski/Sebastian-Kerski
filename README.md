@@ -20,7 +20,7 @@ A mental preparation app for competition situations, built from personal experie
 
 ## Companion Project
 
-### ⌚️ PoiseLog
+### ⌚️ Manual Aktivity Log (PoiseLog)
 A lightweight companion app for logging workouts when wearing an Apple Watch is not permitted  
 (e.g. martial arts, competitions).
 
