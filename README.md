@@ -1,64 +1,74 @@
-# Hi, I'm Sebastian 👋
+# SEKI
 
-I'm an iOS developer focused on building calm, purposeful tools.  
-I care about product thinking, mental clarity, and software that respects real-world constraints.
+iOS Developer · Product Thinking · Systems & Performance
 
----
+I build focused, high-quality iOS applications that help people operate in the right state — especially in moments that matter.
 
-## Current Focus
-
-### 🧠 PoisePrep
-A mental preparation app for competition situations, built from personal experience as a competitive judo athlete.
-
-- SwiftUI
-- Offline-first
-- Short-session focused
-- Designed for moments before and between competitions
-- Developed as part of my Swift Student Challenge submission
+My work sits at the intersection of product design, mental performance, and real-world constraints.
 
 ---
 
-## Companion Project
+## Current Work
 
-### ⌚️ Manual Activity Log (PoiseLog)
-A lightweight companion app for logging workouts when wearing an Apple Watch is not permitted  
-(e.g. martial arts, competitions).
+### 🧠 VorilaPrep
+A pre-performance tool designed to help users regulate focus and activation before important moments (e.g. competitions, exams, presentations).
 
-- Complements Apple Fitness and Activity Rings
-- Designed for real-world training constraints
-- Simple, intentional logging
+- Built with SwiftUI
+- Offline-first, no dependencies
+- Short, actionable sessions (seconds to minutes)
+- Based on real competitive experience
+
+Designed to be fast, precise, and usable under pressure.
+
+---
+
+## Companion
+
+### ⌚️ VorilaLog
+A lightweight manual activity logger for situations where wearables are not usable (e.g. martial arts, competitions).
+
+- Complements Apple Fitness & Activity Rings
+- Writes meaningful data instead of approximations
+- Built for constraints, not ideal conditions
 
 ---
 
 ## Previous Work
 
 ### 📱 Spichr
-An independently developed and published iOS app available on the App Store.  
-Built end-to-end from concept to release.
+A pantry and food inventory app, independently developed and published on the App Store.
+
+- Multi-language support
+- End-to-end built (idea → release → iteration)
+- Focus on simplicity and usability
 
 ---
 
-## What I Care About
+## Approach
 
-- Clear product focus over feature overload  
-- Calm, intentional user experiences  
-- Readable, maintainable code  
-- Software as a tool, not as noise  
+I focus on building software that is:
+
+- Purposeful — every feature has a reason  
+- Calm — no noise, no overload  
+- Reliable — works when it matters  
+- Structured — clear systems over complexity  
 
 ---
 
 ## Background
 
 - Competitive judo athlete  
-- Mental performance and preparation under pressure  
-- Process-oriented product thinking  
+- Experience performing under pressure  
+- Process-oriented thinking from regulated environments (MS&T)
 
 ---
 
 ## Tech
 
-**Swift · SwiftUI · iOS**
+Swift · SwiftUI · iOS · Apple HIG · Localization
 
 ---
 
-📫 Contact: **sekidev@icloud.com**
+## Contact
+
+📫 sekidev@icloud.com
