@@ -59,7 +59,7 @@ I focus on building software that is:
 
 - Competitive judo athlete  
 - Experience performing under pressure  
-- Process-oriented thinking from regulated environments (MS&T)
+- Process-oriented thinking from regulated environments
 
 ---
 
