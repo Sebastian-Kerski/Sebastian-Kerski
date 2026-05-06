@@ -1,74 +1,115 @@
+<div align="center">
+
 # SEKI
 
-iOS Developer · Product Thinking · Systems & Performance
+**iOS Developer · Product Systems · Performance-Focused Software**
 
-I build focused, high-quality iOS applications that help people operate in the right state — especially in moments that matter.
-
-My work sits at the intersection of product design, mental performance, and real-world constraints.
+</div>
 
 ---
 
-## Current Work
-
-### 🧠 VorilaPrep
-A pre-performance tool designed to help users regulate focus and activation before important moments (e.g. competitions, exams, presentations).
-
-- Built with SwiftUI
-- Offline-first, no dependencies
-- Short, actionable sessions (seconds to minutes)
-- Based on real competitive experience
-
-Designed to be fast, precise, and usable under pressure.
+I build focused iOS applications for real-world situations where clarity, usability, and reliability matter. The work is grounded in intentional interaction design — removing friction where it counts, structuring information cleanly, and building systems that hold up when conditions aren't ideal.
 
 ---
 
-## Companion
+## Apps
 
-### ⌚️ VorilaLog
-A lightweight manual activity logger for situations where wearables are not usable (e.g. martial arts, competitions).
+<br>
 
-- Complements Apple Fitness & Activity Rings
-- Writes meaningful data instead of approximations
-- Built for constraints, not ideal conditions
+<table>
+<tr>
+<td width="64" valign="top">
+<img src="assets/vorilaprep-icon.png" width="52" height="52" style="border-radius:12px">
+</td>
+<td valign="top">
 
----
+### VorilaPrep
 
-## Previous Work
+A pre-performance regulation system for competitions, presentations, exams, and high-pressure situations.
 
-### 📱 Spichr
-A pantry and food inventory app, independently developed and published on the App Store.
+Designed for fast interaction and minimal cognitive overhead. Sessions are short, structured, and usable under real pressure — not ideal conditions.
 
-- Multi-language support
-- End-to-end built (idea → release → iteration)
-- Focus on simplicity and usability
+- Offline-first, no network dependencies
+- Structured preparation workflows
+- Built from real competitive experience
+- Standalone Apple Watch app in development
+
+**Swift · SwiftUI · HealthKit · watchOS · Localization**
+
+[App Store](https://apps.apple.com/de/app/vorila-prep/id6760753050) · [Website](https://sebastian-kerski.github.io/vorila/)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="64" valign="top">
+<img src="assets/vorilalog-icon.png" width="52" height="52" style="border-radius:12px">
+</td>
+<td valign="top">
+
+### VorilaLog
+
+A lightweight manual activity logger for situations where wearables are limited or not usable — martial arts, competitions, contact sports, constrained environments.
+
+Complements Apple Health and Activity Rings with meaningful, accurate logging rather than sensor approximation.
+
+**Swift · SwiftUI · HealthKit · Localization**
+
+[App Store](https://apps.apple.com/de/app/vorilalog/id6758885506)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="64" valign="top">
+<img src="assets/spichr-icon.png" width="52" height="52" style="border-radius:12px">
+</td>
+<td valign="top">
+
+### Spichr
+
+A pantry and household inventory app built around simplicity, structure, and long-term maintainability. Actively developed.
+
+- CloudKit-based collaboration and shared household inventory
+- Offline-first architecture
+- Calm, low-friction interaction design
+
+**Swift · SwiftUI · CoreData · CloudKit · Localization**
+
+[App Store](https://apps.apple.com/de/app/spichr/id6749096170) · [Repository](https://github.com/Sebastian-Kerski/Spichr)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Approach
 
-I focus on building software that is:
-
-- Purposeful — every feature has a reason  
-- Calm — no noise, no overload  
-- Reliable — works when it matters  
-- Structured — clear systems over complexity  
+Purposeful software — every decision has a reason. I focus on reliability over novelty, structured systems over surface complexity, and usability under real-world constraints. Accessibility and calm interaction are built into the process, not added afterwards.
 
 ---
 
 ## Background
 
-- Competitive judo athlete  
-- Experience performing under pressure  
-- Process-oriented thinking from regulated environments
+Competitive judo athlete. Experience with process development and optimization in regulated environments. Background in systems thinking, human performance, and the gap between designed experience and real-world use.
 
 ---
 
 ## Tech
 
-Swift · SwiftUI · iOS · Apple HIG · Localization
+Swift · SwiftUI · iOS · watchOS · HealthKit · CloudKit · CoreData · Localization · Apple HIG
 
 ---
 
 ## Contact
 
-📫 sekidev@icloud.com
+sekidev@icloud.com
